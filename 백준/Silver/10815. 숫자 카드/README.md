@@ -1,6 +1,7 @@
 # [Silver V] 숫자 카드 - 10815 
 
 [문제 링크](https://www.acmicpc.net/problem/10815) 
+[문제 해설(velog)](https://velog.io/@heyoni/10815)
 
 ### 성능 요약
 
