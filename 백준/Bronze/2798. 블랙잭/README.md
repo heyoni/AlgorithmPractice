@@ -1,6 +1,7 @@
 # [Bronze II] 블랙잭 - 2798 
 
-[문제 링크](https://www.acmicpc.net/problem/2798) 
+[문제 링크](https://www.acmicpc.net/problem/2798)  
+[문제 풀이](https://velog.io/@heyoni/2798)
 
 ### 성능 요약
 
