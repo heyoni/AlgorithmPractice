@@ -1,9 +1,6 @@
-n = input()
-
-numbers = list(input())
-sum = 0
-
-for i in numbers:
-    sum += int(i)
-    
-print(sum)
+input()
+k = input()
+result = 0
+for i in range(len(k)):
+    result += int(k[i])
+print(result)
